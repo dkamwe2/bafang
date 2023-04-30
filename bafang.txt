@@ -1,0 +1,5 @@
+bafang is a subdivision
+in this subdivision we have 7 division
+
+in this division we hav7 dn
+/bin/bash: line 1: wq: command not found
